@@ -1,0 +1,19 @@
+Subject|Data Structures and Algorithms
+Topic|Arrays and Strings|true|4
+Topic|Linked Lists|true|3
+Topic|Binary Search Trees|false|0
+Topic|Graph Traversal (BFS/DFS)|false|0
+Topic|Dynamic Programming|true|2
+Topic|Heaps and Priority Queues|false|0
+Subject|Database Management Systems
+Topic|Entity-Relationship Model|true|5
+Topic|SQL Queries & Joins|true|4
+Topic|Normalization (1NF/2NF/3NF)|true|3
+Topic|Transactions & ACID Properties|false|0
+Topic|Indexing & B-Trees|false|0
+Subject|Operating Systems
+Topic|Process Management & Scheduling|true|4
+Topic|Memory Management & Paging|true|3
+Topic|Deadlocks & Avoidance|false|0
+Topic|File Systems|false|0
+Topic|Virtualization|true|2
