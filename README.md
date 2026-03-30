@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/prepgap_banner.png" alt="PrepGap Banner" width="100%">
+  <img src="assets/banner.jpg" alt="PrepGap Banner" width="100%">
   
   <h1>🎓 PrepGap – Exam Preparation Gap Finder</h1>
   
